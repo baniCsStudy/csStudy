@@ -52,8 +52,8 @@
 
 
 ## ✅ 네트워크
-- IP주소 - [Team1](), [Team2]()
-- HTTP - [Team1](), [Team2]()
+- IP주소 - [Team1](), [Team2](2.%20Network/2.4.%20IP%20Address/ip_address_team2.md)
+- HTTP - [Team1](), [Team2](2.%20Network/2.5.%20HTTP/http_team2.md)
 
 ## ✅ 운영체제
 - 운영체제 기초 - [Team1](), [Team2]()
@@ -72,16 +72,39 @@
 
 # 컨벤션
 
-### 📌 MD 컨벤션
+## 📌 MD 컨벤션
 1. 예상 질문 토글로 MD에 같이 넣어주기
 2. 최상단 README -> 스터디 주제에 자신의 MD url 연결해주기
+3. 파일명은 (주제)_team1.md 형식
 
-### 📌 Git 컨벤션
+## 📌 Git 컨벤션
 1. 한 가지 md에 대해 PR 진행하기
 
-브랜치 나눌건지?, main 브랜치에 바로 푸시할지? 아니면 작업 브랜치 만들어서 main 브랜치에 PR할지?
+### 브랜치 명
+- (브랜치 용도)/(주제)  
+- 예외로 feature는 사용빈도가 높고 길이가 길어서 feat으로 단축하여 사용  
+- 정리본 추가시 docs 대신 feat사용  
+- develop브랜치가 따로 없으므로 main브랜치로 부터 신규 브랜치 생성  
+- 각 주제별로 브랜치 생성 -> 한주에 여러개의 브랜치가 생성될수 있음.
 
-커밋메세지는 주제별로 할건지 주차별로 할건지
+예시)  
+- feature/http  
+- docs/readme
+
+<br/>
+
+### 커밋 메세지
+- (동사 기본형): (내용)
+- 난 첫 글자는 대문자로 주로 썼었는데 합의 필요
+- 정리본 추가시엔 Feat사용
+- 내용 파트는 영어/한글 자유 사용
+
+예시)
+- Feat: ip-address
+- Fix: tcp/ip and source reference address
+- Add: git ignore
+- Chore: some typo and others
+- Docs: 리드미 링크 수정
 
 <br/><br/>
 
