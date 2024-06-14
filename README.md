@@ -52,7 +52,7 @@
 
 
 ## ✅ 네트워크
-- IP주소 - [Team1](), [Team2](https://github.com/baniCsStudy/csStudy/blob/docs/readme/2.%20Network/2.4.%20IP%20Address/ip_address_team2.md)
+- IP주소 - [Team1](), [Team2](https://github.com/baniCsStudy/csStudy/blob/main/assets/dev-jeans.png)
 - HTTP - [Team1](), [Team2]()
 
 ## ✅ 운영체제
