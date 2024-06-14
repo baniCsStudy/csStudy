@@ -52,8 +52,8 @@
 
 
 ## ✅ 네트워크
-- IP주소 - [Team1](), [Team2](https://github.com/baniCsStudy/csStudy/tree/docs/readme/2.%20Network)
-- HTTP - [Team1](), [Team2]()
+- IP주소 - [Team1](), [Team2](https://github.com/baniCsStudy/csStudy/blob/main/2.%20Network/2.4.%20IP%20Address/ip_address_team2.md)
+- HTTP - [Team1](), [Team2](https://github.com/baniCsStudy/csStudy/blob/main/2.%20Network/2.5.%20HTTP/http_team2.md)
 
 ## ✅ 운영체제
 - 운영체제 기초 - [Team1](), [Team2]()
