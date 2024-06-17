@@ -5,8 +5,8 @@
 |:-:|:-:|:-:|
 |<img src="https://avatars.githubusercontent.com/moeun12" width="150" height="150">|<img src="https://avatars.githubusercontent.com/calendar2" width="150" height="150" >|<img src="https://avatars.githubusercontent.com/badacura"  width="150" height="150">|
 |[moeun12](https://github.com/moeun12)|[calendar2](https://github.com/calendar2)|[badacura](https://github.com/badacura)|
-|<img src="assets/dev-jeans.png" width="150" height="150">|<img src="assets/dev-jeans.png" width="150" height="150">|<img src="assets/dev-jeans.png" width="150" height="150">|
-|[ㅇㅇ](https://github.com/깃허브주소)|[ㅇㅇ](https://github.com/깃허브주소)|[ㅇㅇ](https://github.com/깃허브주소)|
+|<img src="https://avatars.githubusercontent.com/u/88939170?v=4" width="150" height="150">|<img src="assets/dev-jeans.png" width="150" height="150">|<img src="assets/dev-jeans.png" width="150" height="150">|
+|[lalabong](https://github.com/lalabong)|[ㅇㅇ](https://github.com/깃허브주소)|[ㅇㅇ](https://github.com/깃허브주소)|
 
 ## ⛳목표
 - 최대한 머리에 많이 집어넣기
@@ -52,8 +52,8 @@
 
 
 ## ✅ 네트워크
-- IP주소 - [Team1](), [Team2](https://github.com/baniCsStudy/csStudy/blob/main/2.%20Network/2.4.%20IP%20Address/ip_address_team2.md)
-- HTTP - [Team1](), [Team2](https://github.com/baniCsStudy/csStudy/blob/main/2.%20Network/2.5.%20HTTP/http_team2.md)
+- IP주소 - [Team1](https://github.com/baniCsStudy/csStudy/blob/feat/team1-1%EC%A3%BC%EC%B0%A8/2.%20Network/2.4.%20IP%20Address/ip_address_team1.md), [Team2](https://github.com/baniCsStudy/csStudy/blob/main/2.%20Network/2.4.%20IP%20Address/ip_address_team2.md)
+- HTTP - [Team1](https://github.com/baniCsStudy/csStudy/blob/feat/team1-1%EC%A3%BC%EC%B0%A8/2.%20Network/2.5.%20HTTP/http_team1.md), [Team2](https://github.com/baniCsStudy/csStudy/blob/main/2.%20Network/2.5.%20HTTP/http_team2.md)
 
 ## ✅ 운영체제
 - 운영체제 기초 - [Team1](), [Team2]()
