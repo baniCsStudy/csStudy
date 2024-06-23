@@ -47,7 +47,7 @@
 # 스터디 주제
 
 ## ✅ 디자인 패턴 및 프로그래밍 패러다임
-- 디자인 패턴 1 - [Team1](), [Team2]()
+- 디자인 패턴 1 - [Team1](), [Team2](https://github.com/baniCsStudy/csStudy/blob/feat/team2-designpattern/1.%20Design%20Pattern%20%26%20Paradigm/2.1.%20Design%20Pattern/design_pattern_team2.md)
 - 디자인 패턴 2 - [Team1](), [Team2]()
 
 
