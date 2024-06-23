@@ -5,8 +5,8 @@
 |:-:|:-:|:-:|
 |<img src="https://avatars.githubusercontent.com/moeun12" width="150" height="150">|<img src="https://avatars.githubusercontent.com/calendar2" width="150" height="150" >|<img src="https://avatars.githubusercontent.com/badacura"  width="150" height="150">|
 |[moeun12](https://github.com/moeun12)|[calendar2](https://github.com/calendar2)|[badacura](https://github.com/badacura)|
-|<img src="https://avatars.githubusercontent.com/u/88939170?v=4" width="150" height="150">|<img src="assets/dev-jeans.png" width="150" height="150">|<img src="assets/dev-jeans.png" width="150" height="150">|
-|[lalabong](https://github.com/lalabong)|[ㅇㅇ](https://github.com/깃허브주소)|[ㅇㅇ](https://github.com/깃허브주소)|
+|<img src="https://avatars.githubusercontent.com/u/88939170?v=4" width="150" height="150">|<img src="https://avatars.githubusercontent.com/u/139318338?v=4" width="150" height="150">|<img src="assets/dev-jeans.png" width="150" height="150">|
+|[lalabong](https://github.com/lalabong)|[Park0Juhyun](https://github.com/Park0Juhyun)|[ㅇㅇ](https://github.com/깃허브주소)|
 
 ## ⛳목표
 - 최대한 머리에 많이 집어넣기
@@ -47,7 +47,7 @@
 # 스터디 주제
 
 ## ✅ 디자인 패턴 및 프로그래밍 패러다임
-- 디자인 패턴 1 - [Team1](), [Team2](https://github.com/baniCsStudy/csStudy/blob/feat/team2-designpattern/1.%20Design%20Pattern%20%26%20Paradigm/2.1.%20Design%20Pattern/design_pattern_team2.md)
+- 디자인 패턴 1 - [Team1](https://github.com/baniCsStudy/csStudy/blob/e9fe9d2fdccb3c10bd8470f54a03e6e7162117c8/1.%20Design%20Pattern%20%26%20Paradigm/1.1.%20Design%20Pattern/design_pattern_team1.md), [Team2](https://github.com/baniCsStudy/csStudy/blob/feat/team2-designpattern/1.%20Design%20Pattern%20%26%20Paradigm/2.1.%20Design%20Pattern/design_pattern_team2.md)
 - 디자인 패턴 2 - [Team1](), [Team2]()
 
 
