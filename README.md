@@ -47,11 +47,13 @@
 # 스터디 주제
 
 ## ✅ 디자인 패턴 및 프로그래밍 패러다임
-- 디자인 패턴 1 - [Team1](https://github.com/baniCsStudy/csStudy/blob/e9fe9d2fdccb3c10bd8470f54a03e6e7162117c8/1.%20Design%20Pattern%20%26%20Paradigm/1.1.%20Design%20Pattern/design_pattern_team1.md), [Team2](https://github.com/baniCsStudy/csStudy/blob/feat/team2-designpattern/1.%20Design%20Pattern%20%26%20Paradigm/2.1.%20Design%20Pattern/design_pattern_team2.md)
-- 디자인 패턴 2 - [Team1](), [Team2]()
+- 디자인 패턴 - [Team1](https://github.com/baniCsStudy/csStudy/blob/e9fe9d2fdccb3c10bd8470f54a03e6e7162117c8/1.%20Design%20Pattern%20%26%20Paradigm/1.1.%20Design%20Pattern/design_pattern_team1.md), [Team2](https://github.com/baniCsStudy/csStudy/blob/feat/team2-designpattern/1.%20Design%20Pattern%20%26%20Paradigm/2.1.%20Design%20Pattern/design_pattern_team2.md)
+- 프로그래밍 패러다임 - [Team1](https://github.com/baniCsStudy/csStudy/blob/feat/programming-paradigm-team2/1.%20Design%20Pattern%20&%20Paradigm/1.2.%20Programming%20paradigm/programming_paradigm_team1.md), [Team2]()
 
 
 ## ✅ 네트워크
+- 네트워크 기초 - [Team1](https://github.com/baniCsStudy/csStudy/blob/main/2.%20Network/2.1.%20Network%20Basic/network_basic_team1.md), [Team2]()
+- TCP/IP 4계층 - [Team1](https://github.com/baniCsStudy/csStudy/blob/main/2.%20Network/2.2.%20TCP%20IP%204-layers%20model/TCP_IP_4layers_model_team1.md), [Team2]()
 - IP주소 - [Team1](https://github.com/baniCsStudy/csStudy/blob/feat/team1-1%EC%A3%BC%EC%B0%A8/2.%20Network/2.4.%20IP%20Address/ip_address_team1.md), [Team2](https://github.com/baniCsStudy/csStudy/blob/main/2.%20Network/2.4.%20IP%20Address/ip_address_team2.md)
 - HTTP - [Team1](https://github.com/baniCsStudy/csStudy/blob/feat/team1-1%EC%A3%BC%EC%B0%A8/2.%20Network/2.5.%20HTTP/http_team1.md), [Team2](https://github.com/baniCsStudy/csStudy/blob/main/2.%20Network/2.5.%20HTTP/http_team2.md)
 
