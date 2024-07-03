@@ -6,7 +6,9 @@
 |<img src="https://avatars.githubusercontent.com/moeun12" width="150" height="150">|<img src="https://avatars.githubusercontent.com/calendar2" width="150" height="150" >|<img src="https://avatars.githubusercontent.com/badacura"  width="150" height="150">|
 |[moeun12](https://github.com/moeun12)|[calendar2](https://github.com/calendar2)|[badacura](https://github.com/badacura)|
 |<img src="https://avatars.githubusercontent.com/u/88939170?v=4" width="150" height="150">|<img src="https://avatars.githubusercontent.com/u/139318338?v=4" width="150" height="150">|<img src="assets/dev-jeans.png" width="150" height="150">|
-|[lalabong](https://github.com/lalabong)|[Park0Juhyun](https://github.com/Park0Juhyun)|[ㅇㅇ](https://github.com/깃허브주소)|
+|[lalabong](https://github.com/lalabong)|[Park0Juhyun](https://github.com/Park0Juhyun)|[wkd940709](https://github.com/wkd940709)|
+|<img src="assets/dev-jeans.png" width="150" height="150">|||
+|[dd]()|||
 
 ## ⛳목표
 - 최대한 머리에 많이 집어넣기
@@ -119,7 +121,8 @@
 # 참고자료
 
 ### 👍 강의
-- 찾으면
+- [(개발자 장고) 전공면접 - 운영체제](https://www.youtube.com/watch?v=4ZyUAZ6Vrfc)
+- [(생활코딩) 객체지향 - 추상화](https://www.youtube.com/watch?v=5NmyjJdoLZM)
 
 ### 👍 웹페이지
 - [싸피 1기 선배님의 역작](https://gyoogle.dev/blog/)
