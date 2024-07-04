@@ -5,10 +5,10 @@
 |:-:|:-:|:-:|
 |<img src="https://avatars.githubusercontent.com/moeun12" width="150" height="150">|<img src="https://avatars.githubusercontent.com/calendar2" width="150" height="150" >|<img src="https://avatars.githubusercontent.com/badacura"  width="150" height="150">|
 |[moeun12](https://github.com/moeun12)|[calendar2](https://github.com/calendar2)|[badacura](https://github.com/badacura)|
-|<img src="https://avatars.githubusercontent.com/u/88939170?v=4" width="150" height="150">|<img src="https://avatars.githubusercontent.com/u/139318338?v=4" width="150" height="150">|<img src="assets/dev-jeans.png" width="150" height="150">|
+|<img src="https://avatars.githubusercontent.com/u/88939170?v=4" width="150" height="150">|<img src="https://avatars.githubusercontent.com/u/139318338?v=4" width="150" height="150">|<img src="https://avatars.githubusercontent.com/u/48902631?v=4" width="150" height="150">|
 |[lalabong](https://github.com/lalabong)|[Park0Juhyun](https://github.com/Park0Juhyun)|[wkd940709](https://github.com/wkd940709)|
-|<img src="assets/dev-jeans.png" width="150" height="150">|||
-|[dd]()|||
+|<img src="https://avatars.githubusercontent.com/u/141608973?v=4" width="150" height="150">|||
+|[danidaniiii](https://github.com/danidaniiii)|||
 
 ## ⛳목표
 - 최대한 머리에 많이 집어넣기
@@ -61,7 +61,7 @@
 
 ## ✅ 운영체제
 - 운영체제 기초 - [Team1](), [Team2](https://github.com/baniCsStudy/csStudy/blob/feat/os-computer-team2/3.%20OS/3.1.%20OS%20%26%20Computer/os%26computer_team2.md)
-- 메모리 - [Team1](), [Team2]()
+- 메모리 - [Team1](), [Team2](https://github.com/baniCsStudy/csStudy/blob/main/3.%20OS/3.2.%20Memory/memory_team2.md)
 - 프로세스 & 스레드 - [Team1](), [Team2]()
 - CPU 스케줄링 알고리즘 - [Team1](), [Team2]()
 
