@@ -60,7 +60,7 @@
 - HTTP - [Team1](https://github.com/baniCsStudy/csStudy/blob/feat/team1-1%EC%A3%BC%EC%B0%A8/2.%20Network/2.5.%20HTTP/http_team1.md), [Team2](https://github.com/baniCsStudy/csStudy/blob/main/2.%20Network/2.5.%20HTTP/http_team2.md)
 
 ## ✅ 운영체제
-- 운영체제 기초 - [Team1](), [Team2](https://github.com/baniCsStudy/csStudy/blob/feat/os-computer-team2/3.%20OS/3.1.%20OS%20%26%20Computer/os%26computer_team2.md)
+- 운영체제 기초 - [Team1](https://github.com/baniCsStudy/csStudy/blob/main/3.%20OS/3.1.%20OS%20%26%20Computer/os%26computer_team1.md), [Team2](https://github.com/baniCsStudy/csStudy/blob/feat/os-computer-team2/3.%20OS/3.1.%20OS%20%26%20Computer/os%26computer_team2.md)
 - 메모리 - [Team1](), [Team2](https://github.com/baniCsStudy/csStudy/blob/main/3.%20OS/3.2.%20Memory/memory_team2.md)
 - 프로세스 & 스레드 - [Team1](), [Team2]()
 - CPU 스케줄링 알고리즘 - [Team1](), [Team2]()
