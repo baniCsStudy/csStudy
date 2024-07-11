@@ -7,8 +7,6 @@
 |[moeun12](https://github.com/moeun12)|[calendar2](https://github.com/calendar2)|[badacura](https://github.com/badacura)|
 |<img src="https://avatars.githubusercontent.com/u/88939170?v=4" width="150" height="150">|<img src="https://avatars.githubusercontent.com/u/139318338?v=4" width="150" height="150">|<img src="https://avatars.githubusercontent.com/u/48902631?v=4" width="150" height="150">|
 |[lalabong](https://github.com/lalabong)|[Park0Juhyun](https://github.com/Park0Juhyun)|[wkd940709](https://github.com/wkd940709)|
-|<img src="https://avatars.githubusercontent.com/u/141608973?v=4" width="150" height="150">|||
-|[danidaniiii](https://github.com/danidaniiii)|||
 
 ## ⛳목표
 - 최대한 머리에 많이 집어넣기
