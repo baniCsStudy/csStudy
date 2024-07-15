@@ -60,8 +60,8 @@
 ## ✅ 운영체제
 - 운영체제 기초 - [Team1](https://github.com/baniCsStudy/csStudy/blob/main/3.%20OS/3.1.%20OS%20%26%20Computer/os%26computer_team1.md), [Team2](https://github.com/baniCsStudy/csStudy/blob/feat/os-computer-team2/3.%20OS/3.1.%20OS%20%26%20Computer/os%26computer_team2.md)
 - 메모리 - [Team1](https://github.com/baniCsStudy/csStudy/blob/main/3.%20OS/3.2.%20Memory/memory_team1.md), [Team2](https://github.com/baniCsStudy/csStudy/blob/main/3.%20OS/3.2.%20Memory/memory_team2.md)
-- 프로세스 & 스레드 - [Team1](), [Team2](https://github.com/baniCsStudy/csStudy/blob/ece672cf8a0a8b05179677c9f33211ad96f933b6/3. OS/3.3 Process %26 Thread/process%26thread_team2.md)
-- CPU 스케줄링 알고리즘 - [Team1](), [Team2](https://github.com/baniCsStudy/csStudy/blob/ece672cf8a0a8b05179677c9f33211ad96f933b6/3. OS/3.4 CPU scheduling algorithm/CPU scheduling algorithm_team2.md)
+- 프로세스 & 스레드 - [Team1](), [Team2](https://github.com/baniCsStudy/csStudy/blob/cae59c6f2a49975d6d6f87b3b4b85001e4b910d4/3.%20OS/3.3%20Process%20%26%20Thread/process%26thread_team2.md)
+- CPU 스케줄링 알고리즘 - [Team1](), [Team2](https://github.com/baniCsStudy/csStudy/blob/cae59c6f2a49975d6d6f87b3b4b85001e4b910d4/3.%20OS/3.4%20CPU%20scheduling%20algorithm/CPU%20scheduling%20algorithm_team2.md)
 
 ## ✅ 데이터베이스
 - DB 기초 - [Team1](), [Team2]()
