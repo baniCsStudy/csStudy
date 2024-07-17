@@ -58,17 +58,18 @@
 - HTTP - [Team1](https://github.com/baniCsStudy/csStudy/blob/feat/team1-1%EC%A3%BC%EC%B0%A8/2.%20Network/2.5.%20HTTP/http_team1.md), [Team2](https://github.com/baniCsStudy/csStudy/blob/main/2.%20Network/2.5.%20HTTP/http_team2.md)
 
 ## ✅ 운영체제
-- 운영체제 기초 - [Team1](), [Team2](https://github.com/baniCsStudy/csStudy/blob/feat/os-computer-team2/3.%20OS/3.1.%20OS%20%26%20Computer/os%26computer_team2.md)
-- 메모리 - [Team1](), [Team2](https://github.com/baniCsStudy/csStudy/blob/main/3.%20OS/3.2.%20Memory/memory_team2.md)
-- 프로세스 & 스레드 - [Team1](), [Team2]()
-- CPU 스케줄링 알고리즘 - [Team1](), [Team2]()
+- 운영체제 기초 - [Team1](https://github.com/baniCsStudy/csStudy/blob/main/3.%20OS/3.1.%20OS%20%26%20Computer/os%26computer_team1.md), [Team2](https://github.com/baniCsStudy/csStudy/blob/feat/os-computer-team2/3.%20OS/3.1.%20OS%20%26%20Computer/os%26computer_team2.md)
+- 메모리 - [Team1](https://github.com/baniCsStudy/csStudy/blob/main/3.%20OS/3.2.%20Memory/memory_team1.md), [Team2](https://github.com/baniCsStudy/csStudy/blob/main/3.%20OS/3.2.%20Memory/memory_team2.md)
+
+- 프로세스 & 스레드 - [Team1](https://github.com/baniCsStudy/csStudy/blob/cae59c6f2a49975d6d6f87b3b4b85001e4b910d4/3.%20OS/3.3%20Process%20%26%20Thread/process%26thread_team1.md), [Team2](https://github.com/baniCsStudy/csStudy/blob/cae59c6f2a49975d6d6f87b3b4b85001e4b910d4/3.%20OS/3.3%20Process%20%26%20Thread/process%26thread_team2.md)
+- CPU 스케줄링 알고리즘 - [Team1](https://github.com/baniCsStudy/csStudy/blob/cae59c6f2a49975d6d6f87b3b4b85001e4b910d4/3.%20OS/3.4%20CPU%20scheduling%20algorithm/CPU%20scheduling%20algorithm_team1.md), [Team2](https://github.com/baniCsStudy/csStudy/blob/cae59c6f2a49975d6d6f87b3b4b85001e4b910d4/3.%20OS/3.4%20CPU%20scheduling%20algorithm/CPU%20scheduling%20algorithm_team2.md)
 
 ## ✅ 데이터베이스
-- DB 기초 - [Team1](), [Team2]()
-- ERD & 정규화 - [Team1](), [Team2]()
-- 트랜잭션 & 무결성 - [Team1](), [Team2]()
-- 데이터베이스 종류 - [Team1](), [Team2]()
-- 인덱스 - [Team1](), [Team2]()
+- DB 기초 - [Team1](), [Team2](https://github.com/baniCsStudy/csStudy/blob/main/4.%20DB/4.1%20DB/DB_team2.md)
+- ERD & 정규화 - [Team1](), [Team2](https://github.com/baniCsStudy/csStudy/blob/main/4.%20DB/4.2%20ERD/ERD_team2.md)
+- 트랜잭션 & 무결성 - [Team1](), [Team2](https://github.com/baniCsStudy/csStudy/blob/main/4.%20DB/4.3%20Transection/Transaction_team2.md)
+- 데이터베이스 종류 - [Team1](), [Team2]
+- 인덱스 - [Team1](), [Team2](https://github.com/baniCsStudy/csStudy/blob/main/4.%20DB/4.5%20Index/Index_team2.md)
 - 조인의 종류 및 원리 - [Team1](), [Team2]()
 
 ## ✅ 자료구조
@@ -121,6 +122,8 @@
 ### 👍 강의
 - [(개발자 장고) 전공면접 - 운영체제](https://www.youtube.com/watch?v=4ZyUAZ6Vrfc)
 - [(생활코딩) 객체지향 - 추상화](https://www.youtube.com/watch?v=5NmyjJdoLZM)
+- [(코딩애플)index가 뭔지 설명해보세요](https://www.youtube.com/watch?v=iNvYsGKelYs)
+- [(코딩애플)데이터 정규화가 뭔지 설명해보세요](https://www.youtube.com/watch?v=Y1FbowQRcmI)
 
 ### 👍 웹페이지
 - [싸피 1기 선배님의 역작](https://gyoogle.dev/blog/)
