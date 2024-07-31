@@ -73,7 +73,7 @@
 - 조인의 종류 및 원리 - [Team1](https://github.com/baniCsStudy/csStudy/blob/main/4.%20DB/4.6%20Join/Join_team1.md), [Team2]()
 
 ## ✅ 자료구조
-- 복잡도 - [Team1](), [Team2]()
+- 복잡도 - [Team1](https://github.com/baniCsStudy/csStudy/blob/main/5.%20Data%20Structure/5.1%20Complexity/Complexity_team1.md), [Team2]()
 - 선형 자료 구조 - [Team1](), [Team2]()
 - 비선형 자료 구조 - [Team1](), [Team2]()
 
