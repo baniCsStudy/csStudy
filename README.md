@@ -141,6 +141,11 @@
 
 1. 
 
+### Back-End
+
+1. Spring Framework에 대해 설명해주세요.
+2. Spring Boot와 Spring Framework의 차이점을 설명해주세요.
+
 ## 📘 기술면접 외 질문
 
 1. 프로젝트를 진행하며 가장 어려웠던점이 무었인가요?  
