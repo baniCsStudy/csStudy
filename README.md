@@ -104,10 +104,10 @@
 - 트랜잭션 & 무결성 - [Team1], [Team2](https://github.com/baniCsStudy/csStudy/blob/main/4.%20DB/4.3%20Transection/Transaction_team2.md)
 - 데이터베이스 종류 - [Team1], [Team2]
 - 인덱스 - [Team1], [Team2](https://github.com/baniCsStudy/csStudy/blob/main/4.%20DB/4.5%20Index/Index_team2.md)
-- 조인의 종류 및 원리 - [Team1](https://github.com/baniCsStudy/csStudy/blob/main/4.%20DB/4.6%20Join/Join_team1.md), [Team2]
+- 조인의 종류 및 원리 - [Team1](https://github.com/baniCsStudy/csStudy/blob/main/4.%20DB/4.6%20Join/Join_team1.md), [Team2](https://github.com/baniCsStudy/csStudy/blob/main/4.%20DB/4.6%20Join/Join_team2.md)
 
 ### 자료구조
-- 복잡도 - [Team1](https://github.com/baniCsStudy/csStudy/blob/main/5.%20Data%20Structure/5.1%20Complexity/Complexity_team1.md), [Team2]
+- 복잡도 - [Team1](https://github.com/baniCsStudy/csStudy/blob/main/5.%20Data%20Structure/5.1%20Complexity/Complexity_team1.md), [Team2](https://github.com/baniCsStudy/csStudy/blob/main/5.%20Data%20Structure/5.1%20Complexity/Complexity_team2.md)
 - 선형 자료 구조 - [Team1], [Team2]
 - 비선형 자료 구조 - [Team1], [Team2]
 
@@ -140,6 +140,11 @@
 ### Java
 
 1. 
+
+### Back-End
+
+1. Spring Framework에 대해 설명해주세요.
+2. Spring Boot와 Spring Framework의 차이점을 설명해주세요.
 
 ## 📘 기술면접 외 질문
 
